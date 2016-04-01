@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1383258728 source:e:\skydrive\facul\2semestre\apcii\trabalho 2\biblioteca\main.cpp
+	<iostream.h>
+	<conio.h>
+	<locale.h>
+	<iomanip.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<stdio.h>
+
